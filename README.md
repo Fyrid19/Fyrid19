@@ -11,5 +11,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Fyrid19&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fyrid19&theme=transparent&size_weight=0.5&count_weight=0.5&layout=donut&hide_border=true&langs_count=6&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fyrid19&theme=transparent&size_weight=0.5&count_weight=0.5&layout=donut&hide_border=true&langs_count=6&card_width=500" />
 </a>
