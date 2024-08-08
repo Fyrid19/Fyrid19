@@ -1,4 +1,4 @@
-# Fyrid19
+# FyriDev
 
 amateur haxe/lua coder
 
