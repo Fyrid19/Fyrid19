@@ -1,6 +1,6 @@
 # FyriDev
 
-- amateur haxe/lua coder
+- amateur haxe/lua (& more) coder
 
 - i will NOT work on your fnf mod.. unless i know you then maybe
 
